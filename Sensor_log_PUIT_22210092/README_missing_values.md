@@ -122,7 +122,7 @@ This computes:
 
 ---
 
-## 🧠 What to Say in Class
+
 
 > “I tested four methods for cleaning missing values: forward fill, backward fill, interpolation, and mean fill. Interpolation was the most realistic because IoT sensors produce time-series data where values change gradually. We created separate DataFrames for each method and compared them for analysis.”
 
